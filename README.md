@@ -1,7 +1,7 @@
 <!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
 <div align="center"> 
 
-![Rinki Kundu is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=Frontend+Developer;Open+source+Developer;Java+Developer;C"++"+Expert)
+![Rinki Kundu is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=FFDD00&center=true&width=400&height=30&lines=Frontend+Developer;Open+source+Developer;Java+Developer;Cpp Expert)
 </div>
 
 <table><tr><td valign="top" width="40%"> 
