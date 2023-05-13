@@ -30,7 +30,7 @@ Let's grow network together!
 
 </td><td width="30%">
 
-<img src="./cat.gif" alt="coding cat"> 
+<img src="./giphy.gif" alt="coding cat"> 
 
 </tr></tr></table> 
 
