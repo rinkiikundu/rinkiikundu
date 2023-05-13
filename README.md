@@ -6,7 +6,7 @@
 
 <table><tr><td valign="top" width="40%"> 
 
-## <img width="25px" src="./devvsakib-hello.gif" alt="Hello Dev!"> I’m Rinki Kundu
+## <img width="25px" src="./rinkii.gif" alt="Hello Dev!"> I’m Rinki Kundu
 
 - 💻 I'm a Full Stack Developer
 - 🆕 Exploring new technologies and developing software solutions and quick hacks.
