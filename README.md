@@ -17,7 +17,7 @@
 ### 💬 Let's connect
 Let's grow network together!
 
- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yellow?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rinkikundu/) [![Hashnode Badge]
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yellow?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rinkikundu/)
 
   
   </p>  
