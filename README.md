@@ -17,10 +17,8 @@
 ### 💬 Let's connect
 Let's grow network together!
 
- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yellow?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rinkikundu/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-yellow?logo=hashnode&logoColor=blue)](https://hashnode.com/@devvsakib)
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yellow?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rinkikundu/) [![Hashnode Badge]
 
-![](https://komarev.com/ghpvc/?username=rinkiikundu&style=flat-square&color=yellow)
-![GitHub User's stars](https://img.shields.io/github/stars/rinkiikunda?label=%E2%AD%90GitHub%20stars&style=flat-square&color=yellow)
   
   </p>  
   
