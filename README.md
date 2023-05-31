@@ -46,15 +46,7 @@ Let's grow network together!
  
 ![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
 
-</td><td align="center" valign="top" width="25%">
- 
-### 🛠️ CMS Expert
- 
- <br> 
- 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,shopify,joomla&perline=10)](https://skillicons.dev)
- 
-</td> 
+</td>
   </tr>
  </table>
 
