@@ -44,7 +44,7 @@ Let's grow network together!
  
 <br> 
  
-![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,tailwind,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
+![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
 
 </td><td align="center" valign="top" width="25%">
  
