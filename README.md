@@ -38,13 +38,13 @@ Let's grow network together!
 <br>
 <br>
 
-<table><tr><td align="center" valign="top" width="70%">
+<table><tr><td align="center" valign="top" width="100%">
 
 ### 🛠️ Languages and Tools
  
 <br> 
  
-![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
+![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github,aws,azure,bootstrap,eclipse,figma,java,netlify,nodejs,postman,visualstudio&perline=15) 
 
 </td>
   </tr>
