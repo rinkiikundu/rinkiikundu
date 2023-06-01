@@ -19,7 +19,6 @@ Let's grow network together!
 
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-yellow?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rinkikundu/)
 
-    ![Snake animation](https://github.com/rinkiikundu/rinkiikundu/blob/output/github-contribution-grid-snake.svg)
 
   </p>  
   
@@ -46,6 +45,7 @@ Let's grow network together!
 <br> 
  
 ![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github,aws,azure,bootstrap,eclipse,figma,netlify,nodejs,postman,visualstudio&perline=15) 
+ ![Snake animation](https://github.com/rinkiikundu/rinkiikundu/blob/output/github-contribution-grid-snake.svg)
 
 </td>
   </tr>
