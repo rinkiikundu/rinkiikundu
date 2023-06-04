@@ -1,7 +1,7 @@
 
 <div align="center"> 
 
-![Rinki Kundu is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=39FF14&center=true&width=400&height=30&lines=Python+Developer;Frontend+Developer;Open+source+Developer;Java+Developer;Cpp+Expert)
+![Rinki Kundu is typing now..](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=1000&color=#FF0000&center=true&width=400&height=30&lines=Python+Developer;Frontend+Developer;Open+source+Developer;Java+Developer;Cpp+Expert)
 </div>
 
 <table><tr><td valign="top" width="40%"> 
